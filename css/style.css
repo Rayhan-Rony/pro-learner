@@ -1,6 +1,18 @@
+.bg-explore {
+    background: #F4FAFD;
+}
+
 @media only screen and (max-width:768px) {
     .col-extra {
         flex-direction: column;
+    }
+
+
+}
+
+@media only screen and (max-width:576px) {
+    .information {
+        flex-wrap: wrap;
     }
 
 
