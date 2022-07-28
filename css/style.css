@@ -2,9 +2,18 @@
     background: #F4FAFD;
 }
 
+.overlay {
+    filter: brightness(50%);
+}
+
+
 @media only screen and (max-width:768px) {
-    .col-extra {
-        flex-direction: column;
+    .c-image {
+        height: 330px;
+    }
+
+    .c-h5 {
+        font-size: 30px;
     }
 
 
@@ -14,6 +23,8 @@
     .information {
         flex-wrap: wrap;
     }
+
+
 
 
 }
