@@ -15,16 +15,4 @@
     .c-h5 {
         font-size: 30px;
     }
-
-
-}
-
-@media only screen and (max-width:576px) {
-    .information {
-        flex-wrap: wrap;
-    }
-
-
-
-
 }
